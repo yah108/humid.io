@@ -1,3 +1,3 @@
-# humid.io
-music player (collaboration tool, private communication crafting tool, private and public music data base, ecommerce) 
-I need your  help to shape my idea to reality.
+# humid.io "music/video player (collaboration tool, private communication crafting tool, private and public music data base, ecommerce) "
+"I need your  help to shape my idea to reality."
+Music/Video Player. The uploader(admin) can invite people to view the file(audio,video). The users in the group can leave their comments on  specific timeline/frame. All users can Play and Stop (or move the timeline to specific spot) and leave a comment at the timeline. The admin can make changes and reupload the content and communicate with the group. Design and functionality wise all uploads and discussion is in one chatroom in time order and users can scroll up and down. Every upload, comment is time printed. Group members shall get notifications when there is a upload, comment etc.
